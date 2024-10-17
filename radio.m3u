@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1,group-title="german" radio="true",Deutschlandfunk
-https://dradio-edge-3099-dus-ts-cdn.cast.addradio.de/dradio/dlf/live/mp3/128/stream.mp3?ar-distributor=f0e5
+https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
 #EXTINF:-1,group-title="german" radio="true",Deutschlandfunk Kultur
-https://dradio-edge-10c8-fra-dtag-cdn.cast.addradio.de/dradio/kultur/live/mp3/128/stream.mp3?ar-distributor=f0e5
+https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3
+#EXTINF:-1,group-title="german" radio="true",Deutschlandfunk Nova
+https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3
 #EXTINF:-1,group-title="german" radio="true",Die Neue 107.7 80er Radio
 http://addrad.io/4454wp2
 #EXTINF:-1,group-title="german" radio="true",hr1
