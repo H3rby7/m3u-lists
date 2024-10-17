@@ -27,14 +27,14 @@ http://streams.regenbogen.de/rr-mannheim-128-mp3?usid=0-0-H-M-D-52
 http://streams.regenbogen.de/rr2-128-mp3?usid=0-0-H-M-D-52
 #EXTINF:-1,group-title="german" radio="true",RPR1
 http://streams.rpr1.de/rpr-simulcast-128-mp3?usid=0-0-H-M-D-52
-#EXTINF:-1,group-title="german" radio="true",SWR1 Rheinland Pfalz
-http://swr-swr1-rp.cast.addradio.de/swr/swr1/rp/aac/48/stream.aac?ar-distributor=f0a0
+#EXTINF:-1,group-title="german" radio="true",SWR1 BW
+https://liveradio.swr.de/sw282p3/swr1bw/
 #EXTINF:-1,group-title="german" radio="true",Swr2 Radio
-http://swr-swr2-live.cast.addradio.de/swr/swr2/live/mp3/256/stream.mp3?ar-distributor=f0a0
+https://liveradio.swr.de/sw282p3/swr2/
 #EXTINF:-1,group-title="german" radio="true",SWR3
-http://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3?ar-distributor=f0a0
+https://liveradio.swr.de/sw282p3/swr3/
 #EXTINF:-1,group-title="german" radio="true",SWR4 Radio
-http://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3?ar-distributor=f0a0
+https://liveradio.swr.de/sw282p3/swr4bw/
 #EXTINF:-1,group-title="german" radio="true",WDR 2 Rheinland
 http://wdr-wdr2-rheinland.cast.addradio.de/wdr/wdr2/rheinland/mp3/56/stream.mp3?ar-distributor=f0a0
 #EXTINF:-1,group-title="german" radio="true",WDR 4 Radio
@@ -44,7 +44,9 @@ http://streams.bigfm.de/bigfm-charts-64-aac?usid=0-0-L-A-D-39
 #EXTINF:-1,group-title="german" radio="true",FFH Soundtrack
 http://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3
 #EXTINF:-1,group-title="german" radio="true",Dasding Partyfieber
-https://dg-swr-https-fra-dtag-cdn.sslcast.addradio.de/swr/dasding/live/mp3/128/stream.mp3
+https://liveradio.swr.de/sw331ch/raka07/
+#EXTINF:-1,group-title="german" radio="true",Dasding Chillout
+https://liveradio.swr.de/sw331ch/raka10/
 #EXTINF:-1,group-title="german" radio="true",80s80s Italo Disco
 http://streams.80s80s.de/italohits/mp3-192/liveonlineradio/
 #EXTINF:-1,group-title="italian" radio="true",Radio Salentuosi
