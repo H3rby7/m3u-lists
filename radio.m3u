@@ -59,43 +59,13 @@ https://liveradio.swr.de/sw331ch/raka07/
 https://liveradio.swr.de/sw331ch/raka10/
 #EXTINF:-1,group-title="german" radio="true",80s80s Italo Disco
 http://streams.80s80s.de/italohits/mp3-192/liveonlineradio/
-#EXTINF:-1,group-title="italian" radio="true",Radio Salentuosi
-http://208.53.158.48:8216
-#EXTINF:-1,group-title="italian" radio="true",Radio Ritmo
-http://ice05.fluidstream.net:80/fluid0506.mp3
 #EXTINF:-1,group-title="italian" radio="true",PolskaStacja 80 and Italo Disco
 http://stream.open.fm/27
-#EXTINF:-1,group-title="italian" radio="true",Melodia FM Italiano
-http://online-melodiafm2.tavrmedia.ua/MelodiaFM_Italiano
-#EXTINF:-1,group-title="italian" radio="true",Yes FM Italia
-http://rouge-italia.ice.infomaniak.ch/rouge-italia-128.mp3
 #EXTINF:-1,group-title="italian" radio="true",Radio Onyx
 http://nr4.newradio.it:9432/stream
 #EXTINF:-1,group-title="italian" radio="true",Radio SorRrisO
-http://ice02.fluidstream.net/sorriso
+https://ice02.fluidstream.net/sorriso
 #EXTINF:-1,group-title="italian" radio="true",Radio Gioconda
 https://eu7.fastcast4u.com/proxy/radiofvg?mp=/1
-#EXTINF:-1,group-title="italian" radio="true",UCampus
-http://193.206.74.236:8000/listen
-#EXTINF:-1,group-title="italian" radio="true",THENETWORK Hits Radio
-http://95.110.207.5:8000/hits.mp3
-#EXTINF:-1,group-title="italian" radio="true",Italian Graffiati Radio
-http://kos.broadstreamer.com:8500/
 #EXTINF:-1,group-title="italian" radio="true",Radio Italia Charleroi
-http://wma02.fluidstream.net:8240
-#EXTINF:-1,group-title="italian" radio="true",Argentovivo1
-http://178.32.139.137:9380/stream.nsv
-#EXTINF:-1,group-title="italian" radio="true",Radio Italia
-https://radiocinemaenovela.com.br:3000/stream
-#EXTINF:-1,group-title="italian" radio="true",Radio Top Italia
-http://62.210.131.27:8075/mp3
-#EXTINF:-1,group-title="italian" radio="true",rtt la Radio
-http://str01.fluidstream.net/rtt.mp3/stream.mp3
-#EXTINF:-1,group-title="italian" radio="true",RFT Made In Italy
-http://178.209.40.106:8002/stream
-#EXTINF:-1,group-title="italian" radio="true",Radioattivita Sport
-http://178.250.66.145:9000/radioattivita
-#EXTINF:-1,group-title="italian" radio="true",Aeon Classics
-http://stm50.srvstm.com:33718/
-#EXTINF:-1,group-title="italian" radio="true",Radio Sunshine
-http://radiocast24.net:8008/
+https://str01.fluidstream.net/ric.mp3
