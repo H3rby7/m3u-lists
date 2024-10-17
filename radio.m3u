@@ -7,18 +7,18 @@ https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3
 https://st03.sslstream.dlf.de/dlf/03/128/mp3/stream.mp3
 #EXTINF:-1,group-title="german" radio="true",Die Neue 107.7 80er Radio
 http://addrad.io/4454wp2
-#EXTINF:-1,group-title="german" radio="true",hr1
-https://hr-edge-304d-dus-ts-cdn.cast.addradio.de/hr/hr1/live/mp3/128/stream.mp3?ar-distributor=f0e5
+#EXTINF:-1,group-title="german" radio="true",hr1 Suedhessen
+https://dispatcher.rndfnk.com/hr/hr1/suedhessen/high
 #EXTINF:-1,group-title="german" radio="true",hr2-kultur
-https://hr-edge-20ab-fra-lg-cdn.cast.addradio.de/hr/hr2/live/mp3/128/stream.mp3?ar-distributor=f0e5
-#EXTINF:-1,group-title="german" radio="true",hr3
-https://hr-edge-30ab-fra-ts-cdn.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3?ar-distributor=f0e5
-#EXTINF:-1,group-title="german" radio="true",hr4
-https://hr-edge-304e-dus-ts-cdn.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3?ar-distributor=f0e5
+https://dispatcher.rndfnk.com/hr/hr2/live/high
+#EXTINF:-1,group-title="german" radio="true",hr3 Suedhessen
+https://dispatcher.rndfnk.com/hr/hr3/suedhessen/high
+#EXTINF:-1,group-title="german" radio="true",hr4 Suedhessen
+https://dispatcher.rndfnk.com/hr/hr4/suedhessen/high
 #EXTINF:-1,group-title="german" radio="true",hr-info
-https://hr-edge-304e-dus-ts-cdn.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3?ar-distributor=f0e5
+https://dispatcher.rndfnk.com/hr/hrinfo/live/high
 #EXTINF:-1,group-title="german" radio="true",You FM
-https://hr-edge-30ab-fra-ts-cdn.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3?ar-distributor=f0e5
+https://dispatcher.rndfnk.com/hr/youfm/live/high
 #EXTINF:-1,group-title="german" radio="true",bigFM Deutschland
 http://streams.bigfm.de/bigfm-deutschland-128-mp3?usid=0-0-H-M-D-52
 #EXTINF:-1,group-title="german" radio="true",Radio Regenbogen
