@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,group-title="radio" radio="true",ITALODISCO
+http://radiart.eu:8349/live
