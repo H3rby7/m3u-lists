@@ -1,3 +1,87 @@
 #EXTM3U
+#EXTINF:-1,group-title="german" radio="true",Deutschlandfunk
+https://dradio-edge-3099-dus-ts-cdn.cast.addradio.de/dradio/dlf/live/mp3/128/stream.mp3?ar-distributor=f0e5
+#EXTINF:-1,group-title="german" radio="true",Deutschlandfunk Kultur
+https://dradio-edge-10c8-fra-dtag-cdn.cast.addradio.de/dradio/kultur/live/mp3/128/stream.mp3?ar-distributor=f0e5
 #EXTINF:-1,group-title="german" radio="true",Die Neue 107.7 80er Radio
 http://addrad.io/4454wp2
+#EXTINF:-1,group-title="german" radio="true",hr1
+https://hr-edge-304d-dus-ts-cdn.cast.addradio.de/hr/hr1/live/mp3/128/stream.mp3?ar-distributor=f0e5
+#EXTINF:-1,group-title="german" radio="true",hr2-kultur
+https://hr-edge-20ab-fra-lg-cdn.cast.addradio.de/hr/hr2/live/mp3/128/stream.mp3?ar-distributor=f0e5
+#EXTINF:-1,group-title="german" radio="true",hr3
+https://hr-edge-30ab-fra-ts-cdn.cast.addradio.de/hr/hr3/live/mp3/128/stream.mp3?ar-distributor=f0e5
+#EXTINF:-1,group-title="german" radio="true",hr4
+https://hr-edge-304e-dus-ts-cdn.cast.addradio.de/hr/hr4/live/mp3/128/stream.mp3?ar-distributor=f0e5
+#EXTINF:-1,group-title="german" radio="true",hr-info
+https://hr-edge-304e-dus-ts-cdn.cast.addradio.de/hr/hrinfo/live/mp3/128/stream.mp3?ar-distributor=f0e5
+#EXTINF:-1,group-title="german" radio="true",You FM
+https://hr-edge-30ab-fra-ts-cdn.cast.addradio.de/hr/youfm/live/mp3/128/stream.mp3?ar-distributor=f0e5
+#EXTINF:-1,group-title="german" radio="true",bigFM Deutschland
+http://streams.bigfm.de/bigfm-deutschland-128-mp3?usid=0-0-H-M-D-52
+#EXTINF:-1,group-title="german" radio="true",Radio Regenbogen
+http://streams.regenbogen.de/rr-mannheim-128-mp3?usid=0-0-H-M-D-52
+#EXTINF:-1,group-title="german" radio="true",Regenbogen 2
+http://streams.regenbogen.de/rr2-128-mp3?usid=0-0-H-M-D-52
+#EXTINF:-1,group-title="german" radio="true",RPR1
+http://streams.rpr1.de/rpr-simulcast-128-mp3?usid=0-0-H-M-D-52
+#EXTINF:-1,group-title="german" radio="true",SWR1 Rheinland Pfalz
+http://swr-swr1-rp.cast.addradio.de/swr/swr1/rp/aac/48/stream.aac?ar-distributor=f0a0
+#EXTINF:-1,group-title="german" radio="true",Swr2 Radio
+http://swr-swr2-live.cast.addradio.de/swr/swr2/live/mp3/256/stream.mp3?ar-distributor=f0a0
+#EXTINF:-1,group-title="german" radio="true",SWR3
+http://swr-swr3-live.cast.addradio.de/swr/swr3/live/mp3/128/stream.mp3?ar-distributor=f0a0
+#EXTINF:-1,group-title="german" radio="true",SWR4 Radio
+http://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3?ar-distributor=f0a0
+#EXTINF:-1,group-title="german" radio="true",WDR 2 Rheinland
+http://wdr-wdr2-rheinland.cast.addradio.de/wdr/wdr2/rheinland/mp3/56/stream.mp3?ar-distributor=f0a0
+#EXTINF:-1,group-title="german" radio="true",WDR 4 Radio
+http://wdr-wdr4-live.cast.addradio.de/wdr/wdr4/live/mp3/128/stream.mp3?ar-distributor=f0a0
+#EXTINF:-1,group-title="german" radio="true",Big FM Charts
+http://streams.bigfm.de/bigfm-charts-64-aac?usid=0-0-L-A-D-39
+#EXTINF:-1,group-title="german" radio="true",FFH Soundtrack
+http://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3
+#EXTINF:-1,group-title="german" radio="true",Dasding Partyfieber
+https://dg-swr-https-fra-dtag-cdn.sslcast.addradio.de/swr/dasding/live/mp3/128/stream.mp3
+#EXTINF:-1,group-title="german" radio="true",80s80s Italo Disco
+http://streams.80s80s.de/italohits/mp3-192/liveonlineradio/
+#EXTINF:-1,group-title="italian" radio="true",Radio Salentuosi
+http://208.53.158.48:8216
+#EXTINF:-1,group-title="italian" radio="true",Radio Ritmo
+http://ice05.fluidstream.net:80/fluid0506.mp3
+#EXTINF:-1,group-title="italian" radio="true",PolskaStacja 80 and Italo Disco
+http://stream.open.fm/27
+#EXTINF:-1,group-title="italian" radio="true",Melodia FM Italiano
+http://online-melodiafm2.tavrmedia.ua/MelodiaFM_Italiano
+#EXTINF:-1,group-title="italian" radio="true",Yes FM Italia
+http://rouge-italia.ice.infomaniak.ch/rouge-italia-128.mp3
+#EXTINF:-1,group-title="italian" radio="true",Radio Onyx
+http://nr4.newradio.it:9432/stream
+#EXTINF:-1,group-title="italian" radio="true",Radio SorRrisO
+http://ice02.fluidstream.net/sorriso
+#EXTINF:-1,group-title="italian" radio="true",Radio Gioconda
+https://eu7.fastcast4u.com/proxy/radiofvg?mp=/1
+#EXTINF:-1,group-title="italian" radio="true",UCampus
+http://193.206.74.236:8000/listen
+#EXTINF:-1,group-title="italian" radio="true",THENETWORK Hits Radio
+http://95.110.207.5:8000/hits.mp3
+#EXTINF:-1,group-title="italian" radio="true",Italian Graffiati Radio
+http://kos.broadstreamer.com:8500/
+#EXTINF:-1,group-title="italian" radio="true",Radio Italia Charleroi
+http://wma02.fluidstream.net:8240
+#EXTINF:-1,group-title="italian" radio="true",Argentovivo1
+http://178.32.139.137:9380/stream.nsv
+#EXTINF:-1,group-title="italian" radio="true",Radio Italia
+https://radiocinemaenovela.com.br:3000/stream
+#EXTINF:-1,group-title="italian" radio="true",Radio Top Italia
+http://62.210.131.27:8075/mp3
+#EXTINF:-1,group-title="italian" radio="true",rtt la Radio
+http://str01.fluidstream.net/rtt.mp3/stream.mp3
+#EXTINF:-1,group-title="italian" radio="true",RFT Made In Italy
+http://178.209.40.106:8002/stream
+#EXTINF:-1,group-title="italian" radio="true",Radioattivita Sport
+http://178.250.66.145:9000/radioattivita
+#EXTINF:-1,group-title="italian" radio="true",Aeon Classics
+http://stm50.srvstm.com:33718/
+#EXTINF:-1,group-title="italian" radio="true",Radio Sunshine
+http://radiocast24.net:8008/
