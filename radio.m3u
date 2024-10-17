@@ -36,15 +36,19 @@ https://liveradio.swr.de/sw282p3/swr3/
 #EXTINF:-1,group-title="german" radio="true",SWR4 Radio
 https://liveradio.swr.de/sw282p3/swr4bw/
 #EXTINF:-1,group-title="german" radio="true",WDR 1Live
-http://wdr-1live-live.cast.addradio.de/wdr/1live/live/mp3/128/stream.mp3
+https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 #EXTINF:-1,group-title="german" radio="true",WDR 2 Rheinland
-http://wdr-wdr2-rheinland.cast.addradio.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
+https://wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
 #EXTINF:-1,group-title="german" radio="true",WDR 3
-http://wdr-wdr3-live.cast.addradio.de/wdr/wdr3/live/mp3/128/stream.mp3
+https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3
 #EXTINF:-1,group-title="german" radio="true",WDR 4 Radio
-http://wdr-wdr4-live.cast.addradio.de/wdr/wdr4/live/mp3/128/stream.mp3
+https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
 #EXTINF:-1,group-title="german" radio="true",WDR 5 Radio
-http://wdr-wdr5-live.cast.addradio.de/wdr/wdr5/live/mp3/128/stream.mp3
+https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
+#EXTINF:-1,group-title="german" radio="true",WDR Cosmo Afrobeats
+https://wdr-cosmo-afrobeat.icecastssl.wdr.de/wdr/cosmo/afrobeat/mp3/128/stream.mp3
+#EXTINF:-1,group-title="german" radio="true",WDR Cosmo Italia
+https://dispatcher.rndfnk.com/wdr/cosmo/italia/mp3/128/stream.mp3
 #EXTINF:-1,group-title="german" radio="true",Big FM Charts
 http://streams.bigfm.de/bigfm-charts-64-aac?usid=0-0-L-A-D-39
 #EXTINF:-1,group-title="german" radio="true",FFH Soundtrack
