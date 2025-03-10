@@ -1,5 +1,8 @@
 # M3U Lists for KODI
 
+E.g. for use with Kodi's `IPTV Simple Client`.
+Can be added as `remote path` via the add-on configuration.
+
 ## Radio List
 
 Assembled through research
