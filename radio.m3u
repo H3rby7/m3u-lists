@@ -71,3 +71,13 @@ https://eu7.fastcast4u.com/proxy/radiofvg?mp=/1
 https://str01.fluidstream.net/ric.mp3
 #EXTINF:-1,group-title="italian" radio="true",Lolliradio Italia
 https://stream.lolliradio.net/lolli_italia.mp3
+#EXTINF:-1,group-title="italian" radio="true",Lolliradio Soft
+https://stream.lolliradio.net/lolli_soft.mp3
+#EXTINF:-1,group-title="italian" radio="true",Lolliradio Hits
+https://stream.lolliradio.net/lolli_hits.mp3
+#EXTINF:-1,group-title="italian" radio="true",Lolliradio Oldies
+https://stream.lolliradio.net/lolli_oldies.mp3
+#EXTINF:-1,group-title="italian" radio="true",Lolliradio Happy
+https://stream.lolliradio.net/lolli_happy.mp3
+#EXTINF:-1,group-title="italian" radio="true",Lolliradio Dance
+https://stream.lolliradio.net/lolli_dance.mp3
